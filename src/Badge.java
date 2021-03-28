@@ -1,0 +1,4 @@
+
+public enum Badge {
+	BRONZE, SILVER, GOLD, SAPPHIRE, RUBY, EMERALD;
+}
